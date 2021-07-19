@@ -7,7 +7,7 @@
 
 ### Education 🏫
 * Student at VNU-HCM High School for the Gifted in Informatics. 
-* Founder of The Gifted Battlefield.
+* Founder and Developer of The Gifted Battlefield.
 
 ### Skills 🖥️
 * C++, Python, HTML, CSS, JavaScript.
