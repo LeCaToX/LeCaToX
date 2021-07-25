@@ -5,6 +5,7 @@
 * I'm from Vietnam 🇻🇳
 * Traveling ✈️: I have been to England and Singapore.
 * Sport ⚽: I play badminton and even .... games.
+* I love coding💖! And it's my passion.
 
 ### Education 🏫
 * Student at VNU-HCM High School for the Gifted in Informatics. 
