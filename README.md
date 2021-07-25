@@ -11,7 +11,7 @@
 * Founder and Developer of The Gifted Battlefield.
 
 ### Skills 🖥️
-* C++, Python, HTML, CSS, JavaScript.
+* C++, Python, HTML, CSS, JavaScript, Node.js, Git/GitHub.
 
 ### Contact me 📞
 * Facebook: https://www.facebook.com/canhtoan.le.04/
