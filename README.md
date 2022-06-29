@@ -9,7 +9,10 @@
 
 ### Education 🏫
 * Student at VNU-HCM High School for the Gifted in Informatics. 
+
+### Working 🧑‍💻
 * Founder and Developer of The Gifted Battlefield.
+* Developer of The itHelp Project (https://github.com/npovn).
 
 ### Skills 🖥️
 
