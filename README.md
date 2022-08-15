@@ -4,8 +4,9 @@
 * Student at VNU-HCM High School for the Gifted in Informatics. 
 
 ### Working 🧑‍💻
-* Founder and Developer of The Gifted Battlefield.
+* Founder and Developer of The Gifted Battlefield (https://github.com/The-Gifted-Battlefield-Developer-Team).
 * Developer of The itHelp Project (https://github.com/npovn).
+* Developer of MEO Studio (https://github.com/MEOStudio).
 
 ### Skills 🖥️
 
