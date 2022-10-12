@@ -33,3 +33,5 @@
 ![92e53747760748a17dd6dae09982f5e0](https://user-images.githubusercontent.com/70011797/126252655-65c0bc0c-df46-4f0a-a4ed-53debb7e0d87.gif)
 
 ![2f9ea856bc92c736f6d51e12542fb2b2](https://user-images.githubusercontent.com/70011797/126252688-9fb7a9be-b533-4314-b6cf-ee49cb878187.gif)
+
+![View count](https://komarev.com/ghpvc/?username=lecatox)
