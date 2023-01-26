@@ -27,7 +27,7 @@
 
 
   <a href='https://www.linkedin.com/in/canh-toan-le/' target='_blank'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href='https://www.facebook.com/lecanhtoan3008/' target='_blank'>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+  <a href='https://www.facebook.com/lecatox/' target='_blank'>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 
 
 ![92e53747760748a17dd6dae09982f5e0](https://user-images.githubusercontent.com/70011797/126252655-65c0bc0c-df46-4f0a-a4ed-53debb7e0d87.gif)
