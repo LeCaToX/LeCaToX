@@ -1,7 +1,8 @@
 ## Hi there, I'm LeCaToX 👋
 
 ### Education 🏫
-* Student at VNU-HCM High School for the Gifted in Informatics. 
+* Informatics student at VNU-HCM High School for the Gifted.
+* Computer Science student at VNU-HCM International University.
 
 ### Working 🧑‍💻
 * Founder and Developer of The Gifted Battlefield (https://github.com/TGB-Dev).
